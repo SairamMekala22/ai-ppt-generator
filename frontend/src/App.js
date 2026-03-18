@@ -8,7 +8,9 @@ import SlidePreview from "./components/SlidePreview";
 import Slideshow from "./components/Slideshow";
 
 
-const API_BASE = process.env.REACT_APP_API_BASE || "http://127.0.0.1:5000";
+const API_BASE =
+  process.env.REACT_APP_API_BASE ||
+  "https://ai-ppt-generator-s511.onrender.com";
 
 const appStyles = `
   :root {
