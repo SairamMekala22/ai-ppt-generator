@@ -147,11 +147,6 @@ API_KEY=your_llm_api_key
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your UI here)
-
----
 
 ## 🚀 Future Improvements
 
